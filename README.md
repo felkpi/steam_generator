@@ -1,5 +1,5 @@
 # steam_generator
-Steam generator. SCADA + sheams
+Steam generator. SCADA + sheams (C#, AutoCad)
 
 SCADA:
 1. C# + .Net FrameWork 4.5 + ADO.Net (access db - costumer requirement) + WinForm
